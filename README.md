@@ -4,9 +4,11 @@
 I am a full-stack web developer located in Southern California 🌞 🌴
 
 
-I have always been interested in the world of tech and when I decided to start dabbling in the programming world through free resources on the 
-internet, it did not take long for me to become completely hooked. My love for creativity and complex problem-solving, along with an eagerness to continually 
-learn has led me to develop a passion for coding. One of my favorite things about coding is being able to watch an abstract idea become a tanginble product that was built completely from scratch in just a short period of time!
+I have always been interested in the world of tech and when I decided to start dabbling in the programming world through 
+free resources on the internet, it did not take long for me to become completely hooked. My love for creativity and complex 
+problem-solving, along with an eagerness to continually learn has led me to develop a passion for coding. One of my favorite 
+things about coding is being able to watch an abstract idea become a tanginble product that was built completely from 
+scratch in just a short period of time!
 
 
 ### Technologies & Tools
