@@ -35,7 +35,7 @@ A web application for anyone who wants to become a master at at saving for the f
 
 Checkout a live demo here: 
 
-![](login.gif) ![](budget-form.gif) ![](transactions.gif) 
+![](connect.gif) ![](budget-form.gif)
 
 
 #### Center Ice
