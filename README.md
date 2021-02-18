@@ -1,4 +1,4 @@
-![](header.png)
+![]()
 
 
 I am a full-stack web developer located in Southern California 🌞 🌴
