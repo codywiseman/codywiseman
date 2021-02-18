@@ -1,4 +1,4 @@
-![](https://github.com/codywiseman/codywiseman/blob/main/header.png?raw=true)
+![]()
 
 
 I am a full-stack web developer located in Southern California 🌞 🌴
