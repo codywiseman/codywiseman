@@ -35,7 +35,7 @@ A web application for anyone who wants to become a master at at saving for the f
 
 Checkout a live demo here: 
 
-![](connect.gif) ![](budget-form.gif)
+![](connect.gif) ![](transactions.gif)
 
 
 #### Center Ice
@@ -50,7 +50,7 @@ Checkout a live demo here:
 
 ### Contact me 📬
 
-cjwiseman09@gmail.com | ([LinkedIn](https://www.linkedin.com/in/cody-wiseman1)] | Resume: 
+cjwiseman09@gmail.com | [LinkedIn](https://www.linkedin.com/in/cody-wiseman1) | Resume: 
 
 
 
