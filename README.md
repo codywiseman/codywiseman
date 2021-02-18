@@ -33,7 +33,7 @@ src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&l
 
 #### BudgetBuddy 
 
-A web application for anyone who wants to become a master at at saving for the future. BudgetBuddy allows you to connect to your bank account, so you can easily create a budget and deduct bank transactions all in one place. 
+A web application for anyone who wants to become a master at saving their money. BudgetBuddy allows you to connect to your bank account, so you can easily create a budget and deduct bank transactions from your budget all in one place. 
 
 Checkout a live demo here: 
 
