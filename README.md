@@ -38,6 +38,15 @@ Checkout a live demo here:
 ![](login.gif) ![](budget-form.gif) ![](transactions.gif) 
 
 
+#### Center Ice
+
+An application that allows hockey fanatics to browse NHL teams and players. Users can select their favorite players and track their statistics through the season.
+
+Checkout a live demo here: 
+
+![](teams.gif) ![](favorite.gif) 
+
+
 <!--
 **codywiseman/codywiseman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
