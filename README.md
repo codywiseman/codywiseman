@@ -44,7 +44,7 @@ Checkout a live demo here:
 
 An application that allows hockey fanatics to browse NHL teams and players. Users can select their favorite players and track their statistics through the season.
 
-Checkout a live demo here: 
+[Live Demo](https://codywiseman.github.io/ajax-project/) | [Source Code](https://github.com/codywiseman/ajax-project) 
 
 ![](teams.gif) ![](favorite.gif) 
 
