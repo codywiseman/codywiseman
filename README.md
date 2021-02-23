@@ -52,7 +52,7 @@ An application that allows hockey fanatics to browse NHL teams and players. User
 
 ### Contact me 📬
 
-cjwiseman09@gmail.com | [LinkedIn](https://www.linkedin.com/in/cody-wiseman1) | Resume: 
+cjwiseman09@gmail.com | [LinkedIn](https://www.linkedin.com/in/cody-wiseman1) | [Resume](https://drive.google.com/file/d/1QV4f4n4EjAg-uGgQyvl48_fU1DN6n02I/view?usp=sharing)
 
 
 
