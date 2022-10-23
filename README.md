@@ -35,7 +35,7 @@ src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&l
 
 A web application for anyone who wants to become a master at saving their money. BudgetBuddy allows you to connect to your bank account, so you can easily create a budget and deduct bank transactions from your budget all in one place. 
 
-[Live Demo](https://budgetbuddy-app.herokuapp.com/#) | [Source Code](https://github.com/codywiseman/budget-buddy)
+[Live Demo](https://center-ice-app.onrender.com/) | [Source Code](https://github.com/codywiseman/budget-buddy)
 
 ![](connect.gif) ![](transactions.gif)
 
