@@ -44,7 +44,7 @@ A web application for anyone who wants to become a master at saving their money.
 
 An application that allows hockey fanatics to browse NHL teams and players. Users can select their favorite players and track their statistics through the season.
 
-[Live Demo](https://codywiseman.github.io/ajax-project/) | [Source Code](https://github.com/codywiseman/ajax-project) 
+[Live Demo](https://center-ice-app.onrender.com/) | [Source Code](https://github.com/codywiseman/ajax-project) 
 
 ![](teams.gif) ![](favorite.gif) 
 
