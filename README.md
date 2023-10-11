@@ -4,11 +4,11 @@
 I am a full-stack web developer located in Southern California 🌞 🌴
 
 
-I have always been interested in the world of tech and when I decided to start dabbling in the programming world through 
+<!--- I have always been interested in the world of tech and when I decided to start dabbling in the programming world through 
 free resources on the internet, it did not take long for me to become completely hooked. My love for creativity and complex 
 problem-solving, along with an eagerness to continually learn has led me to develop a passion for coding. One of my favorite 
 things about coding is being able to watch an abstract idea become a tangible product that was built completely from 
-scratch in just a short period of time!
+scratch in just a short period of time! --->
 
 
 ### Technologies & Tools
@@ -27,7 +27,7 @@ src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&lo
 src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img alt="GitHub"
 src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 
-
+<!---
 
 ### Applications 
 
@@ -48,6 +48,7 @@ An application that allows hockey fanatics to browse NHL teams and players. User
 
 ![](teams.gif) ![](favorite.gif) 
 
+--->
 
 
 ### Contact me 📬
