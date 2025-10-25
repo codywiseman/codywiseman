@@ -1,7 +1,7 @@
 ![](header.png)
 
 
-I am a full-stack web developer located in Southern California 🌞 🌴
+I am a full-stack web developer located in Southern California
 
 
 <!--- I have always been interested in the world of tech and when I decided to start dabbling in the programming world through 
